@@ -1,8 +1,8 @@
 package paramutil
 
 import (
-	"github.com/stainless-sdks/agu-token-go/packages/param"
-	"github.com/stainless-sdks/agu-token-go/packages/respjson"
+	"github.com/Boomchainlab/solana-verifiable-build/packages/param"
+	"github.com/Boomchainlab/solana-verifiable-build/packages/respjson"
 )
 
 func AddrIfPresent[T comparable](v param.Opt[T]) *T {

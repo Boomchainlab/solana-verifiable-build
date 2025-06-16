@@ -1,7 +1,7 @@
 package paramutil
 
 import (
-	"github.com/stainless-sdks/agu-token-go/internal/encoding/json/sentinel"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/encoding/json/sentinel"
 )
 
 // NullPtr returns a pointer to the zero value of the type T.

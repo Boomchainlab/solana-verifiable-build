@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/stainless-sdks/agu-token-go/internal/requestconfig"
-	"github.com/stainless-sdks/agu-token-go/option"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/requestconfig"
+	"github.com/Boomchainlab/solana-verifiable-build/option"
 )
 
 // Client creates a struct with services and top level methods that help with

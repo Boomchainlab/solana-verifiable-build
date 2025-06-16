@@ -1,7 +1,7 @@
 package sentinel_test
 
 import (
-	"github.com/stainless-sdks/agu-token-go/internal/encoding/json/sentinel"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/encoding/json/sentinel"
 	"reflect"
 	"slices"
 	"testing"

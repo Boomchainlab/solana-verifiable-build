@@ -9,10 +9,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/stainless-sdks/agu-token-go"
-	"github.com/stainless-sdks/agu-token-go/internal/testutil"
-	"github.com/stainless-sdks/agu-token-go/option"
-	"github.com/stainless-sdks/agu-token-go/shared"
+	"github.com/Boomchainlab/solana-verifiable-build"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/testutil"
+	"github.com/Boomchainlab/solana-verifiable-build/option"
+	"github.com/Boomchainlab/solana-verifiable-build/shared"
 )
 
 func TestStoreOrderNewWithOptionalParams(t *testing.T) {
