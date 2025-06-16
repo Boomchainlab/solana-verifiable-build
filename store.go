@@ -6,8 +6,8 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/stainless-sdks/agu-token-go/internal/requestconfig"
-	"github.com/stainless-sdks/agu-token-go/option"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/requestconfig"
+	"github.com/Boomchainlab/solana-verifiable-build/option"
 )
 
 // StoreService contains methods and other services that help with interacting with

@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/stainless-sdks/agu-token-go"
-	"github.com/stainless-sdks/agu-token-go/internal"
-	"github.com/stainless-sdks/agu-token-go/option"
+	"github.com/Boomchainlab/solana-verifiable-build"
+	"github.com/Boomchainlab/solana-verifiable-build/internal"
+	"github.com/Boomchainlab/solana-verifiable-build/option"
 )
 
 type closureTransport struct {

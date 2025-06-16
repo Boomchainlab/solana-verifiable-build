@@ -3,8 +3,8 @@ package respjson_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/stainless-sdks/agu-token-go/internal/apijson"
-	rj "github.com/stainless-sdks/agu-token-go/packages/respjson"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/apijson"
+	rj "github.com/Boomchainlab/solana-verifiable-build/packages/respjson"
 	"reflect"
 	"testing"
 )

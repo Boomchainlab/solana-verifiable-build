@@ -12,13 +12,13 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/stainless-sdks/agu-token-go/internal/apiform"
-	"github.com/stainless-sdks/agu-token-go/internal/apijson"
-	"github.com/stainless-sdks/agu-token-go/internal/apiquery"
-	"github.com/stainless-sdks/agu-token-go/internal/requestconfig"
-	"github.com/stainless-sdks/agu-token-go/option"
-	"github.com/stainless-sdks/agu-token-go/packages/param"
-	"github.com/stainless-sdks/agu-token-go/packages/respjson"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/apiform"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/apijson"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/apiquery"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/requestconfig"
+	"github.com/Boomchainlab/solana-verifiable-build/option"
+	"github.com/Boomchainlab/solana-verifiable-build/packages/param"
+	"github.com/Boomchainlab/solana-verifiable-build/packages/respjson"
 )
 
 // PetService contains methods and other services that help with interacting with

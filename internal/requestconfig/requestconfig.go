@@ -18,10 +18,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/stainless-sdks/agu-token-go/internal"
-	"github.com/stainless-sdks/agu-token-go/internal/apierror"
-	"github.com/stainless-sdks/agu-token-go/internal/apiform"
-	"github.com/stainless-sdks/agu-token-go/internal/apiquery"
+	"github.com/Boomchainlab/solana-verifiable-build/internal"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/apierror"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/apiform"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/apiquery"
 )
 
 func getDefaultHeaders() map[string]string {

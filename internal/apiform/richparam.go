@@ -1,7 +1,7 @@
 package apiform
 
 import (
-	"github.com/stainless-sdks/agu-token-go/packages/param"
+	"github.com/Boomchainlab/solana-verifiable-build/packages/param"
 	"mime/multipart"
 	"reflect"
 )

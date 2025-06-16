@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/stainless-sdks/agu-token-go/internal/requestconfig"
-	"github.com/stainless-sdks/agu-token-go/option"
-	"github.com/stainless-sdks/agu-token-go/shared"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/requestconfig"
+	"github.com/Boomchainlab/solana-verifiable-build/option"
+	"github.com/Boomchainlab/solana-verifiable-build/shared"
 )
 
 // StoreOrderService contains methods and other services that help with interacting
