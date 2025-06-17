@@ -270,6 +270,8 @@ client.Store.ListInventory(context.TODO(), ...,
 )
 ```
 
+The request option `option.WithDebugLog(nil)` may be helpful while debugging.
+
 See the [full list of request options](https://pkg.go.dev/github.com/Boomchainlab/solana-verifiable-build/option).
 
 ### Pagination
