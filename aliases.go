@@ -3,9 +3,9 @@
 package agutoken
 
 import (
-	"github.com/stainless-sdks/agu-token-go/internal/apierror"
-	"github.com/stainless-sdks/agu-token-go/packages/param"
-	"github.com/stainless-sdks/agu-token-go/shared"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/apierror"
+	"github.com/Boomchainlab/solana-verifiable-build/packages/param"
+	"github.com/Boomchainlab/solana-verifiable-build/shared"
 )
 
 // aliased to make [param.APIUnion] private when embedding

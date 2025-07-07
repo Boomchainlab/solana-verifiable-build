@@ -6,9 +6,9 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/stainless-sdks/agu-token-go/internal/apijson"
-	"github.com/stainless-sdks/agu-token-go/packages/param"
-	"github.com/stainless-sdks/agu-token-go/packages/respjson"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/apijson"
+	"github.com/Boomchainlab/solana-verifiable-build/packages/param"
+	"github.com/Boomchainlab/solana-verifiable-build/packages/respjson"
 )
 
 // aliased to make [param.APIUnion] private when embedding

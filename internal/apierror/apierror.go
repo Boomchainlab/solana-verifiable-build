@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"net/http/httputil"
 
-	"github.com/stainless-sdks/agu-token-go/internal/apijson"
-	"github.com/stainless-sdks/agu-token-go/packages/respjson"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/apijson"
+	"github.com/Boomchainlab/solana-verifiable-build/packages/respjson"
 )
 
 // Error represents an error that originates from the API, i.e. when a request is

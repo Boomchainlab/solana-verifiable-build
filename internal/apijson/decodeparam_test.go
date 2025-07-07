@@ -3,8 +3,8 @@ package apijson_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/stainless-sdks/agu-token-go/internal/apijson"
-	"github.com/stainless-sdks/agu-token-go/packages/param"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/apijson"
+	"github.com/Boomchainlab/solana-verifiable-build/packages/param"
 	"reflect"
 	"testing"
 )

@@ -2,7 +2,7 @@ package apijson
 
 import (
 	"errors"
-	"github.com/stainless-sdks/agu-token-go/packages/param"
+	"github.com/Boomchainlab/solana-verifiable-build/packages/param"
 	"reflect"
 
 	"github.com/tidwall/gjson"

@@ -2,7 +2,7 @@
 package json
 
 import (
-	"github.com/stainless-sdks/agu-token-go/internal/encoding/json/shims"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/encoding/json/shims"
 	"reflect"
 	"time"
 )

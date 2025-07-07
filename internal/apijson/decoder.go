@@ -7,7 +7,7 @@ package apijson
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/stainless-sdks/agu-token-go/packages/param"
+	"github.com/Boomchainlab/solana-verifiable-build/packages/param"
 	"reflect"
 	"strconv"
 	"sync"

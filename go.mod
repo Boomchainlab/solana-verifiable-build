@@ -1,4 +1,4 @@
-module github.com/stainless-sdks/agu-token-go
+module github.com/Boomchainlab/solana-verifiable-build
 
 go 1.21
 

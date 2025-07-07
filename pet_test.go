@@ -10,9 +10,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/stainless-sdks/agu-token-go"
-	"github.com/stainless-sdks/agu-token-go/internal/testutil"
-	"github.com/stainless-sdks/agu-token-go/option"
+	"github.com/Boomchainlab/solana-verifiable-build"
+	"github.com/Boomchainlab/solana-verifiable-build/internal/testutil"
+	"github.com/Boomchainlab/solana-verifiable-build/option"
 )
 
 func TestPetNewWithOptionalParams(t *testing.T) {

@@ -1,7 +1,7 @@
 package apijson
 
 import (
-	"github.com/stainless-sdks/agu-token-go/packages/respjson"
+	"github.com/Boomchainlab/solana-verifiable-build/packages/respjson"
 	"reflect"
 )
 

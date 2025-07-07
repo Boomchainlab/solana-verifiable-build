@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"time"
 
-	shimjson "github.com/stainless-sdks/agu-token-go/internal/encoding/json"
+	shimjson "github.com/Boomchainlab/solana-verifiable-build/internal/encoding/json"
 
 	"github.com/tidwall/sjson"
 )
